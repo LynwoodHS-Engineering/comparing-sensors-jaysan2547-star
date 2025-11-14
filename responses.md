@@ -10,4 +10,5 @@ A2) Well I would say this for the lever attachment the purpose is more of a comm
 throws some projectiles at lever it could interrupt the process (which is unlikly). However for the ultrasonic item yeah a sand, or winter storm could effect how far the sonar can calibrate due to the endless dust
 blocking or even getting inside the sonar will make it hard to tell how far something is.
 
-Q3)
+Q3) What role does coding play in this process?
+A3) 
