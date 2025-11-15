@@ -11,4 +11,4 @@ throws some projectiles at lever it could interrupt the process (which is unlikl
 blocking or even getting inside the sonar will make it hard to tell how far something is.
 
 Q3) What role does coding play in this process?
-A3) 
+A3) Well it allows the user to program each component to do a certain action, and modify the outputs to their favors such as having the lever output connect to one function or multiply ones, another idea could have the lever hold for a certain limit which will have a special out depending on said duration. Now for the sonar it could be programmed to measure different units from cm to actual meters or when a certain distance is close or far enough an output could happen. That's the role of coding to make the two devices function.
