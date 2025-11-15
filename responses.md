@@ -1,4 +1,4 @@
-Sensor types responses!
+# Sensor types responses!
 
 Q1) What is the actual physical process that is allowing the Raspberry Pi to sense the environmnet?
 A1) Well within the raspberry Pi will have a python3 program connected to the bread-board that has two different types of sensors being the limit switch & Ultrasonic sound. 
