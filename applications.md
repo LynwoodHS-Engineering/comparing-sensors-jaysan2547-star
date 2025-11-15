@@ -1,4 +1,4 @@
-Atuoonomus Robotic System Overview
+Autonomous Robotic System Overview
 
 Q1) Then describe how these sensors could be used in an autonomous robotic system. Be sure to properly use ALL of the terms listed in this document in your responses.
 
